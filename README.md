@@ -13,7 +13,7 @@
   <!-- ================= VISITOR BADGE & STATUS ================= -->
   <p align="center">
     <a href="https://github.com/notevenmayank">
-      <img src="https://komarev.com/ghpvc/?username=notevenmayank&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+      <img src= />
     </a>
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square&logo=github" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=flat-square" alt="Focus" />
