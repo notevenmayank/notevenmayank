@@ -13,7 +13,7 @@
   <!-- ================= VISITOR BADGE & STATUS ================= -->
   <p align="center">
     <a href="https://github.com/notevenmayank">
-      <img src= />
+      <
     </a>
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square&logo=github" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=flat-square" alt="Focus" />
@@ -60,7 +60,7 @@ current_focus: Building production-ready web apps & sharpening Data Structures &
 hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi coding sessions
 ```
 
-- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering**
+- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering from Graphic Era**
 - 🚀 **Latest Engineering Feat**: Architected and deployed **[Sahayak Setu](https://github.com/notevenmayank/Sahayak-Setu)** — a cooperative fair-trade worker platform with real-time GPS tracking, 230 automated test suites, and Groq Cloud AI assistant.
 - 💡 **Passions**: Clean code architecture, RESTful API design, database integrity, and operational safety systems.
 - 🧠 **Problem Solving**: Sharpening algorithmic skills & problem solving on **LeetCode**.
