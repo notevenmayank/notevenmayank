@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- ================= RETRO PIXEL DEV BANNER ================= -->
+  <!-- ================= RETRO PIXEL DEV BANNER (LOCAL REPO ASSET) ================= -->
   <img src="https://raw.githubusercontent.com/notevenmayank/notevenmayank/main/assets/header.gif" width="100%" alt="Retro Dev Setup" style="border-radius: 12px; max-height: 380px; object-fit: cover;" />
 
   <br/><br/>
 
-  <!-- ================= HEADER TITLE CARD ================= -->
+  <!-- ================= HEADER TITLE CARD (LOCAL REPO ASSET) ================= -->
   <img src="https://raw.githubusercontent.com/notevenmayank/notevenmayank/main/assets/title.svg" width="100%" alt="Mayank Joshi - Full Stack Developer" />
 
   <br/><br/>
@@ -49,7 +49,7 @@
     <li><a href="#-about-me">🙋 About Me</a></li>
     <li><a href="#-featured-project-spotlight">🌟 Featured Project Spotlight</a></li>
     <li><a href="#-tech-stack--tools">🛠️ Tech Stack & Tools</a></li>
-    <li><a href="#-github-metrics--analytics">📊 GitHub Metrics & Analytics</a></li>
+    <li><a href="#-github-streak--metrics">📊 GitHub Streak & Metrics</a></li>
     <li><a href="#-connect--collaborate">📬 Connect & Collaborate</a></li>
   </ul>
 </details>
@@ -125,19 +125,21 @@ hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi cod
 
 ---
 
-## 📊 GitHub Metrics & Analytics
+## 📊 GitHub Streak & Metrics
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=notevenmayank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notevenmayank&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Verified 200 OK) -->
   <img src="https://streak-stats.demolab.com?user=notevenmayank&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+</div>
+
+---
+
+## 💭 Daily Dev Thought
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
