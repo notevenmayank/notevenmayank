@@ -10,15 +10,6 @@
 
   <br/><br/>
 
-  <!-- ================= VISITOR BADGE & STATUS ================= -->
-  <p align="center">
-    <a href="https://github.com/notevenmayank">
-      <
-    </a>
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square&logo=github" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=flat-square" alt="Focus" />
-  </p>
-
   <!-- ================= SOCIAL BADGES ================= -->
   <p align="center">
     <a href="mailto:mankujoshi8319@gmail.com" target="_blank">
@@ -27,9 +18,15 @@
     <a href="https://github.com/notevenmayank" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-
-    
-   
+    <a href="https://leetcode.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.linkedin.com/in/mayankjoshi902700/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
   </p>
 
 </div>
@@ -54,13 +51,13 @@
 
 ```yaml
 name: Mayank Joshi
-degree: B.Tech in Computer Science & Engineering (2025–2029) from Graphic Era Bhimtal
-interests: Full-Stack Engineering, Backend Architecture, Real-Time Systems, AI Function Calling,Problem Solving
+degree: B.Tech in Computer Science & Engineering (2025–2029)
+interests: Full-Stack Engineering, Backend Architecture, Real-Time Systems, AI Function Calling
 current_focus: Building production-ready web apps & sharpening Data Structures & Algorithms
 hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi coding sessions
 ```
 
-- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering from Graphic Era**
+- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering**
 - 🚀 **Latest Engineering Feat**: Architected and deployed **[Sahayak Setu](https://github.com/notevenmayank/Sahayak-Setu)** — a cooperative fair-trade worker platform with real-time GPS tracking, 230 automated test suites, and Groq Cloud AI assistant.
 - 💡 **Passions**: Clean code architecture, RESTful API design, database integrity, and operational safety systems.
 - 🧠 **Problem Solving**: Sharpening algorithmic skills & problem solving on **LeetCode**.
@@ -145,7 +142,7 @@ hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi cod
 Got a project idea, open-source opportunity, or just want to chat about code & tech? Feel free to reach out!
 
 [![Gmail](https://img.shields.io/badge/Email%20Me-mankujoshi8319%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mankujoshi8319@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mayankjoshi902700/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankjoshi902700/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notevenmayank)
 
 <br/>
