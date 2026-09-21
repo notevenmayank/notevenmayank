@@ -10,24 +10,7 @@
 
   <br/><br/>
 
-  <!-- ================= SOCIAL BADGES ================= -->
-  <p align="center">
-    <a href="mailto:mankujoshi8319@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/notevenmayank" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://leetcode.com/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.linkedin.com/in/mayankjoshi902700/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-  </p>
+  
 
 </div>
 
@@ -57,7 +40,7 @@ current_focus: Building production-ready web apps & sharpening Data Structures &
 hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi coding sessions
 ```
 
-- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering**
+- 🎓 **Education**: Pursuing **B.Tech Computer Science & Engineering from Graphic Era**
 - 🚀 **Latest Engineering Feat**: Architected and deployed **[Sahayak Setu](https://github.com/notevenmayank/Sahayak-Setu)** — a cooperative fair-trade worker platform with real-time GPS tracking, 230 automated test suites, and Groq Cloud AI assistant.
 - 💡 **Passions**: Clean code architecture, RESTful API design, database integrity, and operational safety systems.
 - 🧠 **Problem Solving**: Sharpening algorithmic skills & problem solving on **LeetCode**.
