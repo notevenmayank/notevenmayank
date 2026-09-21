@@ -54,8 +54,8 @@
 
 ```yaml
 name: Mayank Joshi
-degree: B.Tech in Computer Science & Engineering (2025–2029)
-interests: Full-Stack Engineering, Backend Architecture, Real-Time Systems, AI Function Calling
+degree: B.Tech in Computer Science & Engineering (2025–2029) from Graphic Era Bhimtal
+interests: Full-Stack Engineering, Backend Architecture, Real-Time Systems, AI Function Calling,Problem Solving
 current_focus: Building production-ready web apps & sharpening Data Structures & Algorithms
 hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi coding sessions
 ```
