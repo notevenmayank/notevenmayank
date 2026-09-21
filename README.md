@@ -1,27 +1,21 @@
 <div align="center">
 
   <!-- ================= RETRO PIXEL DEV BANNER ================= -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Retro Dev Setup" style="border-radius: 12px; max-height: 380px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/notevenmayank/notevenmayank/main/assets/header.gif" width="100%" alt="Retro Dev Setup" style="border-radius: 12px; max-height: 380px; object-fit: cover;" />
 
   <br/><br/>
 
-  <!-- ================= HEADER CARD ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Mayank%20Joshi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Enthusiast&descSize=16&descAlignY=68" width="100%" alt="Mayank Joshi" />
-
-  <br/>
-
-  <!-- ================= DYNAMIC TYPING SVG ================= -->
-  <a href="https://github.com/notevenmayank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Namaste!+I'm+Mayank+Joshi;%F0%9F%92%BB+Full+Stack+Developer+%26+Problem+Solver;%F0%9F%9A%80+Creator+of+Sahayak+Setu;%E2%9A%A1+Building+Scalable+Backends+%26+Intelligent+Apps;%F0%9F%8E%AF+Passionate+About+DSA+%26+System+Design" alt="Typing SVG" />
-  </a>
+  <!-- ================= HEADER TITLE CARD ================= -->
+  <img src="https://raw.githubusercontent.com/notevenmayank/notevenmayank/main/assets/title.svg" width="100%" alt="Mayank Joshi - Full Stack Developer" />
 
   <br/><br/>
 
+  <!-- ================= VISITOR BADGE & STATUS ================= -->
   <p align="center">
     <a href="https://github.com/notevenmayank">
       <img src="https://komarev.com/ghpvc/?username=notevenmayank&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Open%20To-Collaborations-success?style=flat-square&logo=github" alt="Open to Collaborations" />
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square&logo=github" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=flat-square" alt="Focus" />
   </p>
 
@@ -144,22 +138,6 @@ hobbies: Exploring open-source tech, retro gaming aesthetics, coffee & lo-fi cod
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=notevenmayank&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-## 📈 Activity & Contribution Flow
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notevenmayank&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 💭 Daily Dev Thought
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
